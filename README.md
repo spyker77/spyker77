@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub profile!
+# Welcome to my GitHub profile!
 
 👀 I'm Evgeni, a self-taught Python developer who started this journey in mid-2018.
 
